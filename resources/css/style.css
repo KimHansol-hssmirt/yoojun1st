@@ -7452,6 +7452,8 @@ span.greeting-go-text {
 	height: 10em;
 }
 
+.popup .inner-box{height: auto;}
+
 @media screen and (min-width: 481px) {
 	.all-fs0 {
 		font-size: calc(10px * 1.0 * 1) !important;
