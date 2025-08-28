@@ -1328,6 +1328,7 @@
                              </p>
                 		
                             <div class="nav-call" style="margin-bottom: 7px;"><!--0813추가-->
+                                <button class="nav-call-btn basicBorder basicColor all-bt all-fs1 mr-cont-xxs" onclick="main13CopyToClipboard('서울 영등포구 영등포로 33')">주소 복사</button>
                                 <button class="nav-call-btn basicBorder basicColor all-bt all-fs1" onclick="main10_makeCall('02-579-2114')">안내 전화</button>
                             </div>
                             <script>
@@ -2574,7 +2575,7 @@
         }
         
         function main16CopyToClipboard(){
-        	const word = window.location.origin;
+        	const word = window.location.origin + "/yoojun1st";
     		navigator.clipboard.writeText(word).then(function() {
                 alert('복사가 완료되었습니다.');
             }).catch(function(error) {
