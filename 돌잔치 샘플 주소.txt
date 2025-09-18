@@ -3,6 +3,8 @@ http://127.0.0.1:5500/index.html
 
 깃허브 주소
 https://kimhansol-hssmirt.github.io/yoojun1st/
+단축 url 
+https://buly.kr/2qYzKEU
 
 참고 돌잔치 샘플 주소
 https://inviteday.com/OyQaDAynFLia
@@ -11,6 +13,12 @@ https://inviteday.com/OyQaDAynFLia
 http://inv.dreammotion.co.kr/vr.asp?uid=242709
 
 
+
+플로렌스 오목교점 8층 튜울립홀
+
+main13CopyToClipboard
+텍스트 복사하기
+onclick="main13CopyToClipboard('1002-758-061091')"
 ------------------------
 네이버 api 지도 
 https://jisoo-log.tistory.com/12
